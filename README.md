@@ -1,6 +1,6 @@
 # HTB
 
-[Profile](https://www.hackthebox.eu/profile/306940)  
+[Profile](https://app.hackthebox.com/profile/306940)  
 
 ルールに基づき期限切れのみ   
 [+]:OSCP類似ホスト  
